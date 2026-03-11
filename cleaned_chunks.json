@@ -1,0 +1,362 @@
+[
+  {
+    "text": "Yeah. Hi, I am Sridhar Kamala. Today we are going to talk about what is Java. Java is a high level class based object. Oriented programming language that follows the principle of right once run anywhere. Here are its keywords, key features are object, oriented, platform, independent, secure, and robust, multi-cred, distributed computing support. Rich standard library main uses are android apple development, enterprise, software web applications, server side development games, IoT applications and mainly technical characters are strongly typed language. automatic memory management and garbage collection. extensive error handling rich ecosystems of frameworks and libraries, architecture components. Jdk, Java runtime environment. Java virtual machine. So yeah, this is a simple Java. Hello, world example. This code is compiled with Java Byte code.",
+    "metadata": {
+      "source_file": "GMT20250615-015326_JAVA_Recording.transcript (1) (1).vtt",
+      "topic": "JAVA",
+      "chunk_index": 0,
+      "total_chunks": 5
+    }
+  },
+  {
+    "text": "Jdk, Java runtime environment. Java virtual machine. So yeah, this is a simple Java. Hello, world example. This code is compiled with Java Byte code. Run on. Jvm. Executed on any platform with Jre. Installed. Okay, so if you would like to more details about Java history. it is created by James Bosling at some Microsystems in 1995, now owned and maintained by Oracle Corporation. named after Java coffee, hence the coffee cup logo version, history, or Java, 8 most widely used. Java, 11 Java, 17, Java 21, which is the latest version. And in market, we are having okay, many development tools. I mean, popular ids are intellij, id eclipse, netbase, visual studio code. And we do have frameworks. Okay? Based on Java springboard, Hibernet, Java effects, Android SDK key features in detail. encapsulation, inheritance, polymorphism, abstraction exception, handling multi-threading collection framework",
+    "metadata": {
+      "source_file": "GMT20250615-015326_JAVA_Recording.transcript (1) (1).vtt",
+      "topic": "JAVA",
+      "chunk_index": 1,
+      "total_chunks": 5
+    }
+  },
+  {
+    "text": "Android SDK key features in detail. encapsulation, inheritance, polymorphism, abstraction exception, handling multi-threading collection framework so in case, if you would like to know more aspects. Okay, for example, Java, oriented programming concepts, Java syntax and programming framework usage development environment setup advanced Java features. So in case if you would like to know any of these components, yeah, we can discuss more. So let's let's talk about the framework usage. So I'll give one full Java. Okay, spring example. So here is some one simple Java code. Okay. so popular. Okay, continuation to the same topic. Popular frameworks by category web development Spring, Mvc. Jsf. Play framework micro services or springboard micronut purpose held in for testing purpose. We have that we do have motors, you know. J, you know, test ng, micro heat selenium beltols or maven, gradl a, and T.",
+    "metadata": {
+      "source_file": "GMT20250615-015326_JAVA_Recording.transcript (1) (1).vtt",
+      "topic": "JAVA",
+      "chunk_index": 2,
+      "total_chunks": 5
+    }
+  },
+  {
+    "text": "held in for testing purpose. We have that we do have motors, you know. J, you know, test ng, micro heat selenium beltols or maven, gradl a, and T. So in case if you want to discuss more about, explain more about any specific framework or examples. any integration patterns. Yeah, we can discuss more. Yeah, we'll we can discuss more on the integration frameworks. So key integration patterns are message-based integration which is like Jms. Apache, Activemq, rabbit, Mq. Apache cough cough. So these are no message based orientation programs. And we do have web services. Integration like soap web, so based restful Graphql and file based integrations using the Ftp Sftp file sharing document processing database integration like Jdvc. Jpa Hibernet. major integration frameworks and major integration from Apache camel.",
+    "metadata": {
+      "source_file": "GMT20250615-015326_JAVA_Recording.transcript (1) (1).vtt",
+      "topic": "JAVA",
+      "chunk_index": 3,
+      "total_chunks": 5
+    }
+  },
+  {
+    "text": "file sharing document processing database integration like Jdvc. Jpa Hibernet. major integration frameworks and major integration from Apache camel. Okay, which is like enterprise, integration patterns, multiple transparent spring integration mule, Esb. Which is one of the most popular integration tool. The purchase address Mics.",
+    "metadata": {
+      "source_file": "GMT20250615-015326_JAVA_Recording.transcript (1) (1).vtt",
+      "topic": "JAVA",
+      "chunk_index": 4,
+      "total_chunks": 5
+    }
+  },
+  {
+    "text": "So. calling them Sci-fi. But little did we know, then, that those dreams would turn into reality quite soon, thanks to none other than AI. The possibilities that AI technology presents are almost limitless, and it has already begun to change the way we live and work from self-driving cars and and smart homes to virtual assistants and personalized recommendations. AI is transforming our world in ways that were once unimaginable. Join us as we explore what AI is, how it works, and why it is creating shockwaves in the industry by this time. We're pretty sure you all have an idea of what an AI is, don't you. It's such a mind blowing technology that lets machines and computer systems simulate human intelligence processes from expert systems to natural language processing. AI is turning sci-fi dreams into reality.",
+    "metadata": {
+      "source_file": "GMT20250615-032521_AI_Recording.transcript (1) (1).vtt",
+      "topic": "AI",
+      "chunk_index": 0,
+      "total_chunks": 11
+    }
+  },
+  {
+    "text": "computer systems simulate human intelligence processes from expert systems to natural language processing. AI is turning sci-fi dreams into reality. But how does the magic of AI really work these days? Every vendor is peddling their AI products and services like they're the hottest thing since sliced bread. But let me tell you something. A lot of what they call AI is just a tiny piece of the puzzle like machine learning. 1st off. AI needs some serious specialized hardware and software to write and train machine learning algorithms and forget about one programming language, ruling them all. Python, R. Java, C plus plus and Julia all exist in the AI world. The languages guzzle down labeled training data like it's nobody's business. Then crunch the numbers to find patterns and correlations. After that, programmers use those patterns to make eerily accurate predictions about the future. You've seen Chatbots that can mimic real human conversation, image recognition, tools that can name every object in a picture, and generative AI that can create text music and images that are almost too realistic.",
+    "metadata": {
+      "source_file": "GMT20250615-032521_AI_Recording.transcript (1) (1).vtt",
+      "topic": "AI",
+      "chunk_index": 1,
+      "total_chunks": 11
+    }
+  },
+  {
+    "text": "recognition, tools that can name every object in a picture, and generative AI that can create text music and images that are almost too realistic. But here's the real Kicker AI programming isn't just about following instructions. It's about teaching machines how to learn how to reason and how to correct themselves. And when it comes to creativity. Artificial intelligence is a total game changer. It can create whole new worlds of music, art, and ideas that humans have never even dreamed of. So yeah, AI is kind of a big deal, and it's only getting bigger now. Artificial intelligence doesn't only mean Siri and Alexa 1st up. We've got weak. AI, also known as narrow AI or artificial narrow intelligence. Ani. This is the stuff that's all around us, powering everything from self-driving cars to Ibm. Watson.",
+    "metadata": {
+      "source_file": "GMT20250615-032521_AI_Recording.transcript (1) (1).vtt",
+      "topic": "AI",
+      "chunk_index": 2,
+      "total_chunks": 11
+    }
+  },
+  {
+    "text": "narrow AI or artificial narrow intelligence. Ani. This is the stuff that's all around us, powering everything from self-driving cars to Ibm. Watson. and don't let the name. Fool, you weak AI might be narrow in focus, but it's anything but weak. This is the kind of AI that gets things done, no questions asked. Now let's talk about the real heavy hitters. Strong. AI, this is the stuff that's straight out of Sci-fi, the kind of AI that could make Hal 9,000 look like a child's toy. Strong AI is made up of 2 types, artificial general intelligence, Agi, and artificial super intelligence. Asi Agi is the theoretical form of AI that would be equal to human intelligence. That's right. We're talking about self-aware problem, solving machines that can plan for the future. And then there's Asi the stuff of nightmares. This is the kind of AI that would surpass the human brain in every way possible. We're talking about machines that could rule the world folks.",
+    "metadata": {
+      "source_file": "GMT20250615-032521_AI_Recording.transcript (1) (1).vtt",
+      "topic": "AI",
+      "chunk_index": 3,
+      "total_chunks": 11
+    }
+  },
+  {
+    "text": "This is the kind of AI that would surpass the human brain in every way possible. We're talking about machines that could rule the world folks. So yeah, weak AI might be the workhorse that keeps the world turning. But don't sleep on strong. AI. This is the stuff that could change everything for better or for worse. Next, we have to clear up the confusion between deep learning and machine learning. Deep learning is a subfield of machine learning, and both are subfields of artificial intelligence. The big difference is that deep learning cuts out the tedious manual work of feature extraction by automating the process, which means it can handle larger data, sets. Machine learning, on the other hand, relies more on human intervention to learn, but don't underestimate deep learning. It can use labeled data sets or raw, unstructured data to determine the features that distinguish different data categories, giving us the power to scale up machine learning in ways that will blow your mind.",
+    "metadata": {
+      "source_file": "GMT20250615-032521_AI_Recording.transcript (1) (1).vtt",
+      "topic": "AI",
+      "chunk_index": 4,
+      "total_chunks": 11
+    }
+  },
+  {
+    "text": "determine the features that distinguish different data categories, giving us the power to scale up machine learning in ways that will blow your mind. You'd be surprised to know that all these concepts of a thinking machine have been around since ancient Greece. But it wasn't until the era of electronic computing that we witnessed some serious milestones in the evolution of artificial intelligence. Alan Turing came up with the Turing test in 1950 to determine if a computer could match human intelligence. John Mccarthy coined the term artificial intelligence in 1956 and created the 1st ever running AI software program called The Logic Theorist. Frank Rosenblatt, created the mark I perceptron. In 1967, the 1st computer that learned through trial and error based on a neural network. Spring always gives me a thing about fresh starts, but I'm not sure how to start going my career. What if I told you there was a way to. In the 19 eighties, neural networks became all the rage with the development of back propagation algorithms that allowed for self-training in AI applications.",
+    "metadata": {
+      "source_file": "GMT20250615-032521_AI_Recording.transcript (1) (1).vtt",
+      "topic": "AI",
+      "chunk_index": 5,
+      "total_chunks": 11
+    }
+  },
+  {
+    "text": "eighties, neural networks became all the rage with the development of back propagation algorithms that allowed for self-training in AI applications. In 1997, Ibm's deep blue took down world chess champion, Garry Kasparov in a historic match. No wonder this artificial intelligence thing is going to shake up your life and the entire world real soon. But here's the kicker. Nobody can agree on how exactly it's going to happen. But one thing we can agree on. You can show your support by hitting that subscribe button and turning on notifications to help us grow and get you the latest developments in AI technology. Now enter Stuart Russell, a computer science professor and AI expert who's about to drop some real talk and separate the sense from nonsense. He meant that there's a massive difference between asking human to do something and giving that as an objective to an AI system. When you ask a human to grab you a cup of coffee. You don't mean that they should make it their life's mission, even if they have to kill everyone else at Starbucks to make it happen.",
+    "metadata": {
+      "source_file": "GMT20250615-032521_AI_Recording.transcript (1) (1).vtt",
+      "topic": "AI",
+      "chunk_index": 6,
+      "total_chunks": 11
+    }
+  },
+  {
+    "text": "cup of coffee. You don't mean that they should make it their life's mission, even if they have to kill everyone else at Starbucks to make it happen. You expect the person to factor in all the other things that we mutually care about. But the important thing is, AI. Systems are built to achieve a fixed objective. Everything has to be specified in the algorithm, and if you miss something, things can go haywire really fast. Let's take the example of fixing the acidification in the oceans. Sure, we could have a catalytic reaction that does that efficiently, but it would consume a quarter of the oxygen in the atmosphere, causing us to die a slow and unpleasant death over several hours. So how do we avoid this mess? Simple? Just be more careful about specifying the objective, and don't forget to factor in everything else.",
+    "metadata": {
+      "source_file": "GMT20250615-032521_AI_Recording.transcript (1) (1).vtt",
+      "topic": "AI",
+      "chunk_index": 7,
+      "total_chunks": 11
+    }
+  },
+  {
+    "text": "hours. So how do we avoid this mess? Simple? Just be more careful about specifying the objective, and don't forget to factor in everything else. But guess what? That's easier said than done, because there are countless side effects to consider the seaweed, the fish, the atmosphere. The list goes on and on, but the twist is, humans often know that they don't know all the things that we care about. We're aware that our understanding of the world is limited, and we need to tread carefully. But with AI we are playing with fire because we don't fully understand the consequences of our actions. AI systems are not capable of understanding the full objective leading to psychopathic behavior. Aristotle's idea of fully automated weaving machines and plectrums that can play music without any human involvement may sound tempting.",
+    "metadata": {
+      "source_file": "GMT20250615-032521_AI_Recording.transcript (1) (1).vtt",
+      "topic": "AI",
+      "chunk_index": 8,
+      "total_chunks": 11
+    }
+  },
+  {
+    "text": "behavior. Aristotle's idea of fully automated weaving machines and plectrums that can play music without any human involvement may sound tempting. but it means we don't need any workers. Payne's idea of technological unemployment in the 19 thirties suggests that if machines do the work. then many jobs would disappear. You must have heard of Em Forrester's machine dependent civilization. It's a chilling tale of what happens when humans hand over the reins to machines, we become so reliant on them that we lose our desire to understand our own civilization or teach the next generation how to do it sound familiar. It's like Wally, but in real life. But here's the catch, general purpose. AI is expected to be here by the end of this century with the median being around 2045. Yeah, that's right. We're talking about machines that can do anything a human can do, and maybe even better. But don't get too excited yet, because John Mcafee, one of the founders of AI, said, it's going to take between 5 and 500 years to make it happen, and we're going to need several Einsteins to pull it off.",
+    "metadata": {
+      "source_file": "GMT20250615-032521_AI_Recording.transcript (1) (1).vtt",
+      "topic": "AI",
+      "chunk_index": 9,
+      "total_chunks": 11
+    }
+  },
+  {
+    "text": "of the founders of AI, said, it's going to take between 5 and 500 years to make it happen, and we're going to need several Einsteins to pull it off. because with this great power comes great responsibility too. So we have a long way to go before we can have general purpose. AI. And we need some serious brainpower to get us there. Are you ready for the ride? Share your thoughts with us in the comments below, we'll make sure to be here and provide the latest information so that you never miss anything important. Thanks for watching this has been how to AI.",
+    "metadata": {
+      "source_file": "GMT20250615-032521_AI_Recording.transcript (1) (1).vtt",
+      "topic": "AI",
+      "chunk_index": 10,
+      "total_chunks": 11
+    }
+  },
+  {
+    "text": "Hey, here! And I welcome you all to my next session. Saturday Lecture Series. And today's topic is mutual funds in this video. Let's quickly understand. What are we going to learn? Number one? We are going to talk about what is a mutual fund, its basics, and how it works. Number 2, we are going to learn what are the different types of mutual funds. Number 3. I'm going to tell you about a very specific type of mutual fund, which is a comparatively less known, or, I may say, less explored type of mutual fund. and the last and the bonus tip from my side is what are the things that you should check out before investing in any mutual fund? This video is brought to you by easy plan. Easy plan is an app that helps you save money regularly from your phone, where you can earn a higher return than your regular savings account, and these returns can also go close to your returns on Fds. And that, too, without any lock-in period. Easy plan helps you to invest in low risk liquid mutual funds. But do you know what's a liquid mutual fund? No, and watch this video till the end, so that you can get an amazing idea about exactly what is a liquid fund and how it works.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 0,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "liquid mutual fund? No, and watch this video till the end, so that you can get an amazing idea about exactly what is a liquid fund and how it works. Okay, so let me just quickly tell you what is a mutual fund and how it works. Okay, to put it in a very simple way. Let's take a very simple example on this. Assume that I were to go from Pune to Mumbai. I have 2 options assume. I can take out my own car. I can ride on my own. I can drive on my own I can enjoy because I know how to drive. I know what way I have to choose. I know what are the basic rules, everything. Okay. So I'm a well educated person as far as driving is concerned. So I can choose how to drive, which way to go and how to go. What possibility? Number 2. I'm not really keen on driving. I just want to reach Mumbai. That's it. So what I can do is I can just hire a driver. I hire a professional. In short.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 1,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "not really keen on driving. I just want to reach Mumbai. That's it. So what I can do is I can just hire a driver. I hire a professional. In short. he takes the decision on which road to choose and what speed to drive, where to stop? I keep all the decisions at his discretion. I just told him the final destination. Okay, that's exactly the difference between a stock market investment and a mutual fund investment in stock market investment. You take your own decisions, you know where you have to go, how to go. You have expertise in that, and you have the enthusiasm, I may say, to explore these things, but if you're of the second category. You're really not bothered to explore things. You better hire professional, and he will take decisions for you. That's exactly what a mutual fund does. So in Simple words, Mutual Fund. There is a mutual fund manager",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 2,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "and he will take decisions for you. That's exactly what a mutual fund does. So in Simple words, Mutual Fund. There is a mutual fund manager takes decisions on your own money which is invested with the mutual fund. Okay, so let's understand basically what a mutual fund does. Okay, it will collect money from people like you and me. Okay, so assume that there is a there's a pool of 100 people. Okay. And these 100 people, given funds. contribute some money to a mutual fund. Now this mutual fund is going to reinvest this money into different different investment opportunities, like a mutual fund, can invest in equity. A mutual fund can invest in debt. A mutual fund can invest in either or or both. Okay, so that depends on the objective of the Mutual Fund scheme. Okay? So putting it in a very short, you know, nutshell, I may say mutual fund is nothing but a type of organization which would take money from people like you and me would create a pool of funds, and this pool of funds will be invested in different different investments. Okay.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 3,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "money from people like you and me would create a pool of funds, and this pool of funds will be invested in different different investments. Okay. now, what is the positive side for the Mutual fund? Mutual Fund, which has invested in different different avenues? Investment Avenues Mutual Fund will earn income out of that. Okay. Now, this income earned can be in the form of interest, or it can be in the form of dividend. Okay, it could be in the form of gain as well. Difference between cost price and selling price. Okay? So mutual fund they got gains. Okay, assume they got \u20b9100 gains. Then what mutual fund is going to do with that? Distribute this to the investors, those who had invested in the mutual fund. Do you think they want to distribute entire \u20b9100 if they distribute entire \u20b9100? Are they mad just to do social service? No, they're not going to do that, so they are going to take out some portion for their own purpose. This is exactly known as management expenses, or people call this as an expense ratio.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 4,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "they are going to take out some portion for their own purpose. This is exactly known as management expenses, or people call this as an expense ratio. This expense ratio would be typically 1% to 3% of your total investment amount. Okay? I hope you have understood how a Mutual Fund works in a more simplified manner. Move on to the types of measure funds originally. What used to happen? I'll tell you every Mutual Fund company. I'm sure you might have heard about all these Icici Mutual Fund or Hdfc. Mutual Fund, or you might have heard about Bill Asson like mutual funds. and they're in the market. Every mutual fund used to come up with a different type of mutual fund, and they used to say, Now invest in this one, now invest in that one poor investor used to get confused as to exactly where I should invest and where I should not. So what Sebi did.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 5,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "in this one, now invest in that one poor investor used to get confused as to exactly where I should invest and where I should not. So what Sebi did. So we said, you can have now only 5 types of mutual funds. Okay, which are the 5 types. Number one, we have an equity mutual fund. Okay? So let's understand what's an equity Mutual fund like, I explained. Right now, Mutual Fund the Mutual Fund Institution basically is going to collect money from people like you and me, and this collector money will then be invested in equity will then be invested in stock market. This will be an equity oriented mutual fund, or an equity mutual fund. Second, one is a debt fund. What? What will happen with a debt fund? Again? Same 1st step remains same. That mutual fund is going to collect money from people like you and me. But instead of investing in equity now, it will invest in debt. Okay, please understand, in debt. The risk is definitely on a lower side, because there are, there is nothing to do with the stock market fluctuations. This money from a debt debt fund never gets invested in a",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 6,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "a lower side, because there are, there is nothing to do with the stock market fluctuations. This money from a debt debt fund never gets invested in a stock market. Right? 3rd one is known as a hybrid fund. Okay, Hybrid Fund. I hope you have understood by the name itself. It could be, a little bit of equity could be a little bit of debt. 4, th one is basically a solution. Oriented fund solution. Oriented fund could be like a child marriage fund. Okay? Second, one could be, it could be a child education fund. Okay? So basically, it's a solution oriented you, you have a solution. You basically want a solution after some specific time frame for which you invest. And whenever the time comes you're going to take out money from that fund right? Both type was a solution fund solution solution oriented fund, and the last one is like an other mutual fund. The 5th one is like other fund.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 7,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "right? Both type was a solution fund solution solution oriented fund, and the last one is like an other mutual fund. The 5th one is like other fund. The best example of another fund is an index fund. Okay, so basically, an index fund. Whatever money this Mutual Fund House is collecting, it's directly invested in the fund. It's directly invested in the index. Basically. So they're going to invest directly in your nifty. They're going to invest directly in sensex, something like that hope. You understand the basic types of funds. So moving on today, we are going to focus only on one type or in that type. Also want to talk about a specific subtype which is comparatively less explored by people like you and me. I'm sure everyone looks at mutual funds only from one angle. That is, I would like to earn more.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 8,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "less explored by people like you and me. I'm sure everyone looks at mutual funds only from one angle. That is, I would like to earn more. but I don't want as much risk as is involved in stock market, so majority of you, I'm sure, might be going ahead with equity oriented mutual funds. But, guys, is that the only option available for mutual fund? Answer is, no. So today, what we are going to talk about is debt fund. And in debt fund. Specifically, I'm going to talk about a fund which is known as a liquid fund. Okay? Now, what's a liquid fund? Liquid funds are a type of mutual fund that invest in securities with a residual maturity of up to 91 days. Assets invested are not tied up for a long time, as liquid funds do not have a lock in period. I'm going to talk about various perspectives of a liquid fund",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 9,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "invested are not tied up for a long time, as liquid funds do not have a lock in period. I'm going to talk about various perspectives of a liquid fund another one for whom liquid fund is useful. Okay, generally, people like me, poor people like me. I don't earn any salary guys. Seriously, I don't earn even \u20b91 of salary. Okay? Or whatever income I get is business income or professional income. So what happens with me? And let us understand, maybe 10 days, 15 days. I might not even earn \u20b91. But on the 16th day I might earn X amount of money. Okay. now the question is, oh, my God! I've got that sweet message from Bank that your account has been credited with whatever rupees. Okay. But then I don't know what I'm going to do with this money. Okay, just an example. Assume that on a single day I got \u20b940,000. Okay, but I'm not sure what I'm going to do with this \u20b940,000.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 10,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "do with this money. Okay, just an example. Assume that on a single day I got \u20b940,000. Okay, but I'm not sure what I'm going to do with this \u20b940,000. But do I really keep this money in savings account? That is one alternative, right? But in this I'm going to get only 4% return. Instead of that, what I may think of is, let me park these funds temporarily in a liquid fund. Okay. Now, what a liquid fund does is that it is a type of mutual fund which will park your money only for a short time. Short time. It could be even like one day, and it could be on a higher side. Okay, it should not be beyond 91 days. Okay, so in simple words, for whom liquid funds can be important. It could be for those people who get money. They have some investable suppliers, but they're not sure when to invest or where to invest. They just need some time to think on where to invest for them. I feel liquid fund can be the best possible solution.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 11,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "to invest or where to invest. They just need some time to think on where to invest for them. I feel liquid fund can be the best possible solution. Second, if you talk about the returns on these liquid mutual funds, typically, whatever types of or whatever different schemes I just checked, it could be. The Icici potential scheme or other schemes as well. I found out that. So I created this indicator which gives me buy and sell signals for any chart. Take a look at this when the bars change colors, it means that the indicator is detecting a new trench. Typically, okay, majority of the cases, you earn a potential return of up to 7%. It's way too higher than your saving bank account. And it is also beating your fixed deposit returns. Okay? So I feel it's a amazing investment opportunity. I might not say that the returns are like sky high, but definitely, they are definitely higher than your savings account as well as your majority of these.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 12,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "not say that the returns are like sky high, but definitely, they are definitely higher than your savings account as well as your majority of these. if I go to the next point, is liquidity. So let's assume that I had invested in this liquid fund, and I need funds. Now, I after, let us say, almost 7 days. Now, I'm sure. Okay, I need to invest my 40,000 in this specific area. Do I immediately get my money or no answer is, yes. So typically, whenever I sell these liquid mutual funds, okay, I would get my money immediately. Okay, so I did talk about returns. I did talk about liquidity. Number 3 is, are we safe? Will it eat up into my investments? Okay, so that is what I wanted to talk about certain precautions that you have to take before you invest, but that I'm going to cover in the last segment of this video only, but one more important aspect which you should understand because it's directly linked with one product, which is your returns. But next is what taxability?",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 13,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "more important aspect which you should understand because it's directly linked with one product, which is your returns. But next is what taxability? There is someone who is actually looking out. Oh, you want the money. And who's that Government of India? Okay? So what tax will be levied on my gains on liquid fund is a very important point. Please understand this. There could be a long term capital gain, or there could be a short term. Capital gain. If it's a short term, capital gain. What is a short term? Capital gain. I invested in a liquid fund, and I have sold it within a span of 3 years. Okay. So I told you that one year criteria but one year criteria is basically for the instruments in which I'm investing. Okay? So if I buy into a mutual Fund liquid Mutual fund, and I've sold it, let us say, within 8 months, as an example. Okay, I've sold it within 8 months.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 14,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "So if I buy into a mutual Fund liquid Mutual fund, and I've sold it, let us say, within 8 months, as an example. Okay, I've sold it within 8 months. Then assume that I got \u20b910,000 as a return from this. Okay, now, this 10,000 will be taxed as per my tax lab. Okay, so if you think that my income is up to 2 lakh 50,000. Then I won't have to pay any tax on that. If you feel that my income is up to 5 lakh. Then I'll have to just pay 5% of this gain if you feel that my tax lap is somewhere between 5 lakh to 10 lakh, I'll have to pay 20% tax on that. And just in case, if you feel that my income exceeds 10 lakhs, then I'll have to pay 30% on this same amount. Okay? So that's for what that's for a short term. capital gain on a liquid fund. If it's a long term, capital gain on a liquid fund, then the taxation is flat at the rate of 20%. But there is a concept of indexation also involved. It's a little bit tricky. I might cover that, you know, separately. Okay, I hope taxation perspective is also understood.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 15,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "indexation also involved. It's a little bit tricky. I might cover that, you know, separately. Okay, I hope taxation perspective is also understood. Let's move on to the last segment, which is the precautions to be taken, and some bonus tips from my side as to at least 2 to 3 points which you should consider before investing in any liquid fund. Number one check. What is the entry load or the exit load? Okay, see, guys, entry load is generally going to be 0 exit load will also be 0 for majority of the cases. But in some funds which I was checking on the Internet, there is an exit load. If you exit the scheme within 7 days of investing. Okay? So if you're investing today, and let us say you sell the units within 2 to 3 days, you might be charged with an exit load. So just check whether the exit load is there for the scheme or does not prevail for the scheme.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 16,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "2 to 3 days, you might be charged with an exit load. So just check whether the exit load is there for the scheme or does not prevail for the scheme. Number 2 also check what is a lock in period. See? Generally there is no lock in lock-in period for any liquid fund. Okay, at least, whatever research I did. There was no lock in period for any scheme. But that should be a basic precaution that you should check before investing in any fund. And the last point very, very important. I am investing in a liquid fund. Does this mean that there is 0 risk? As I mentioned, it's a very important point. Guys, please understand this point. Okay, is there a 0 risk involved in liquid fund? Answer is no, there is a risk for sure. See, the moment you are getting a little bit more return as compared to saving a little bit more return as compared to Md. That's a thumb rule of finance, high risk, high returns",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 17,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "a little bit more return as compared to saving a little bit more return as compared to Md. That's a thumb rule of finance, high risk, high returns the moment you're getting higher returns. It means that you are exposed to some sort of risk. Now, what would be that? Some sort of risk, you might say. But, madam, it's a debt fund. So there's no stock market risk. I agree there is no stock market risk question is that where do this? In which instruments do these mutual funds invest. Okay? So going back to our 1st point, people like you and me invested in this mutual fund. Now the question is, where do this? Where does this pool of money go into this pool of money can be going into something known as certificate of deposits. It could be going into commercial papers. It could be going into government bonds into Treasury bills. Okay, I'm sure all these are alien names for you. But if I start explaining each and every concept. The video will go like 1 h or something, something. So again, I'll discuss this separately in a different video. Okay, so these are different different names of",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 18,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "go like 1 h or something, something. So again, I'll discuss this separately in a different video. Okay, so these are different different names of debt instruments as of now. Okay. now, what could happen? I'll give you a simple example of one of the debt instruments here. One of the debt instruments I talked about is a commercial paper. Okay, let me repeat, it's a debt instrument. DEBT. It's not a death instrument. Okay? Right? I know it was a banjo. Okay, anyway. So death instrument commercial paper. It's a kind of an unsecured instrument. What does it mean tomorrow? If some company who had issued this commercial paper, and that is a commercial paper in which this mutual fund is investing. That company was bankrupt example. Yes, we do have an example. Our favorite Islefs. Okay. Aislefs had come up with a promotion.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 19,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "fund is investing. That company was bankrupt example. Yes, we do have an example. Our favorite Islefs. Okay. Aislefs had come up with a promotion. There were many mutual fund liquid funds who had invested in commercial papers of Iloquis. Okay, what happened? Is there a risk for this liquid fund? Yes, there is a risk. So ensure that not a big chunk of your liquid fund goes into a specific category like a commercial paper and worst scenario could be like, it is going into a commercial paper, but only of one or 2 companies. Okay, so ensure that the portfolio of this mutual fund liquid scheme is well diversified into different different types of instruments, and also in different different companies, which are, you know, issuing these type of instruments? Okay, so guys, to sum up, liquid funds are not risk free, but they are definitely low risk category of mutual funds.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 20,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "these type of instruments? Okay, so guys, to sum up, liquid funds are not risk free, but they are definitely low risk category of mutual funds. The question is, where will I find out the portfolio of all these typical Liquid fund schemes? You do have a free website, moneycontrol.com, and you'll find the portfolio of each and every liquid fund in that specific moneycontrol.com. So be sure that you check out the portfolio and then only invest in liquid funds. Okay? So I hope you have got a very, very holistic approach about what is a liquid fund? What are the different types of funds meaning, and I hope you have gotten a good confidence about when you should invest in liquid funds. And now that you have understood a lot about liquid funds. Let us now understand how to invest in liquid funds in the more simplistic manner through the easy plan. Okay, so let's",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 21,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "a lot about liquid funds. Let us now understand how to invest in liquid funds in the more simplistic manner through the easy plan. Okay, so let's log into our easy plan. App and just for your understanding. It's an app through which your funds get saved in icici prudential liquid, mutual funds. Easybot says, What's your name? I'll just quickly introduce myself. Okay. So it says that it's helping me to set a savings goal first.st Okay? So I feel this is very important. Your 1st step towards financial success is setting up a goal. That's what we are doing right now, let's say I want to save for a vacation. Why not? Or an emergency fund? First, st because I think emergency fund is more important. So let's set up for that. How much you spend approximately every month. So let us say, I spend 20,000 per month. Okay.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 22,
+      "total_chunks": 24
+    }
+  },
+  {
+    "text": "fund is more important. So let's set up for that. How much you spend approximately every month. So let us say, I spend 20,000 per month. Okay. so obviously for 3 months, I'll be spending 60,000 for 6 months. One lak 20,000, but I think that 3 months emergency fund should be good enough for me. So let me give this as a target for my savings.",
+    "metadata": {
+      "source_file": "GMT20250615-033502_MUT_Recording.transcript (1) (1).vtt",
+      "topic": "MUT",
+      "chunk_index": 23,
+      "total_chunks": 24
+    }
+  }
+]
